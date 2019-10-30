@@ -1,3 +1,1 @@
-# TRangat_GW_HW
-Homework 
-Welcome! 
+Excel homework - spreadsheet analysis and visualization 
